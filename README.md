@@ -85,7 +85,7 @@ If you use this code or dataset in your research, please cite our paper:
 ```
 @article{yourname2024reevaluating1rm,
   title={Re-Evaluating the Calculation of 1RM Based on 1RM% and RPE},
-  author={Dr Amin Fashi Professor of Sports and science at Shahid Beheshti Unviersity , },
+  author={Dr. Amin Fashi-Professor of Sports and Science at Shahid Beheshti University-, Alireza Khatami-master of multi-media at Shahid Behesti University-, Javid Moghadam- master of Sports and Science at Shahid Beheshti University-},
   journal={??},
   year={2024},
 
