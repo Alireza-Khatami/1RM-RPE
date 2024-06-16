@@ -1,0 +1,17 @@
+X params scaler: {'mean': 18.00849033988323, 'std': 20.870824118408763}
+Y params scaler: {'mean': 63.397027600849256, 'std': 32.63107671201872}
+Fold 1 - Validation Loss: 0.634918212890625
+Fold 1 - Correlation: 0.768348025607321
+Fold 2 - Validation Loss: 0.6067282557487488
+Fold 2 - Correlation: 0.7520267034219629
+Fold 3 - Validation Loss: 0.6655617952346802
+Fold 3 - Correlation: 0.753017243975713
+Fold 4 - Validation Loss: 0.547532320022583
+Fold 4 - Correlation: 0.9004533380367129
+Fold 5 - Validation Loss: 0.5634716153144836
+Fold 5 - Correlation: 0.8625979881906918
+Average Validation Loss for both: 0.6036424040794373
+Fold Correlations: [0.768348025607321, 0.7520267034219629, 0.753017243975713, 0.9004533380367129, 0.8625979881906918]
+Final Weights: [[ 2.0059433 -8.55609  ]]
+Final Biases: [-7.640223]
+Overall Correlation: 0.8946379723262436

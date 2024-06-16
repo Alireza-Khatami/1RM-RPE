@@ -1,0 +1,17 @@
+X params scaler: {'mean': 26.780678375509204, 'std': 26.66398479632653}
+Y params scaler: {'mean': 97.83333333333333, 'std': 13.582055154586223}
+Fold 1 - Validation Loss: 0.7018603086471558
+Fold 1 - Correlation: 0.40664039371860916
+Fold 2 - Validation Loss: 0.8838956952095032
+Fold 2 - Correlation: 0.33129609685791134
+Fold 3 - Validation Loss: 0.6487390995025635
+Fold 3 - Correlation: 0.33557778796912385
+Fold 4 - Validation Loss: 0.9944136738777161
+Fold 4 - Correlation: 0.6899676110264409
+Fold 5 - Validation Loss: 0.8714540600776672
+Fold 5 - Correlation: 0.5978182285439548
+Average Validation Loss for men: 0.8200725317001343
+Fold Correlations: [0.40664039371860916, 0.33129609685791134, 0.33557778796912385, 0.6899676110264409, 0.5978182285439548]
+Final Weights: [[ 1.7022815 -4.353643 ]]
+Final Biases: [-4.771001]
+Overall Correlation: 0.6327709422922494

@@ -1,0 +1,1 @@
+Fold 1 - Validation Loss: 0.7885012626647949
