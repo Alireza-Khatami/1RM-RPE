@@ -1,6 +1,3 @@
-Sure, here's a comprehensive README for your GitHub repository:
-
----
 
 # Re-Evaluating the Calculation of 1RM Based on 1RM% and RPE
 
